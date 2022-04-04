@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import Navigation from "./Components/Navigation";
 import CreateUser from "./Components/CreateUser";
-import UpdateUser from "./Components/UpdateUser2";
+import UpdateUser from "./Components/UpdateUser";
 import ListUsers from './Components/ListUsers';
 import NotFound from './Components/NotFound';
 

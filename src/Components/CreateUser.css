@@ -20,8 +20,18 @@
 }
 
 .btn {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: #B0B2B5;
     background-color: #474949;
     font-weight: bold;
+}
+
+.formupdate {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2rem;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
 }

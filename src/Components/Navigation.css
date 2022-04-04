@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+.nav-brand {
+    display: block;
+    padding: 0.5rem 2rem 0.5rem 1rem;
+    text-decoration: none;
+    font-size: 1.8rem;
+    color: rgba(255, 255, 255, .55);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+}
+
+.nav-brand:hover {
+    color: rgba(255, 255, 255, .55);
+    font-weight: lighter;
+}

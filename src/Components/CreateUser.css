@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.titleText {
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 1rem;
+}
+
+.form {
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2rem;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+.row {
+    padding: 0.5rem 0 0.5rem 0;
+}
+
+.btn {
+    font-size: 1.5rem;
+    color: #B0B2B5;
+    background-color: #474949;
+    font-weight: bold;
+}
